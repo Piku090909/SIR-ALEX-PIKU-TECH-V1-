@@ -32,3 +32,16 @@
 <h3>SIR-ALEX-PIKU-TECH V1 Stats</h3>
 
 ![SIR-ALEX-PIKU-TECH V1  Stats](https://github-readme-stats.vercel.app/api/pin/?username=piku090909&repo=SIR-ALEX-PIKU-TECH-V1-&show_owner=true&theme=dark)
+
+## SIR-ALEX-PIKU-TECH-V1-Deployment Methods
+---
+1.  **Fork Repo First, [`CLICK HERE`](https://github.com/mouricedevs/Gifted-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
+2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://web.giftedtechnexus.co.ke/sessions/pair) OR BY [`SCANNING QR CODE1`](https://web.giftedtechnexus.co.ke/sessions/qr) OR BY [`SCANNING QR CODE2`](https://web.giftedtechnexus.co.ke/sessions/qr2)** 
+3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/Piku090909/SIR-ALEX-PIKU-TECH-V1-.git?tab=readme-ov-file)**
+
+- Star ⭐ repo if you like this bot.
+- If any problem, then [`Contact Me Here`](https://t.me/alexpiku)
+
+
+### I Am
+- [Gifted Tech](https://github.com/Piku090909) 
